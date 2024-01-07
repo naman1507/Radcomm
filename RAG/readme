@@ -1,1 +1,5 @@
-RAG files
+Retrieval Augmented Generation (RAG)
+
+Embedding Model: "text-embedding-ada-002"
+LLM for Prompting: "GPT 3.5"
+Vector Database: "Pinecone"
